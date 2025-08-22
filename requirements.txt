@@ -1,8 +1,8 @@
-upgrade pip
 streamlit
 sklearn
 pandas
 scikit-learn
+
 
 
 
